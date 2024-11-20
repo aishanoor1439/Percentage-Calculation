@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Percentage Calculation\Percentage Calculation\bin\Debug\Percentage Calculation.exe.config
+C:\Users\DELL\source\repos\Percentage Calculation\Percentage Calculation\bin\Debug\Percentage Calculation.exe
+C:\Users\DELL\source\repos\Percentage Calculation\Percentage Calculation\bin\Debug\Percentage Calculation.pdb
+C:\Users\DELL\source\repos\Percentage Calculation\Percentage Calculation\obj\Debug\Percentage Calculation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Percentage Calculation\Percentage Calculation\obj\Debug\Percentage Calculation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Percentage Calculation\Percentage Calculation\obj\Debug\Percentage Calculation.exe
+C:\Users\DELL\source\repos\Percentage Calculation\Percentage Calculation\obj\Debug\Percentage Calculation.pdb
